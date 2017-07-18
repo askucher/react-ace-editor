@@ -7,7 +7,7 @@ This is a react wrapper around the [Ace Editor](https://ace.c9.io)
 
 ## Getting Started
 ```
-npm install --save react-ace-editor
+npm install --save react-ace-component
 ```
 
 ## Usage
